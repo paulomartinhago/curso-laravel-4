@@ -1,4 +1,4 @@
-### Grade do curso Laravel 4
+## Grade do curso Laravel 4
 
 - **MVC**
   - Introdução
@@ -86,3 +86,4 @@
   - Exemplo de SPA com Laravel e AngularJS
   - Estratégias de deploy
   - Profiling (erros/performance) da aplicação com New Relic, Clockwork e Bugsnag
+  - Scaffold
