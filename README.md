@@ -1,4 +1,4 @@
-## Grade do curso Laravel 4
+### Grade do curso Laravel 4
 
 - **MVC**
   - Introdução
